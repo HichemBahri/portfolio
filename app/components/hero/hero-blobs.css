@@ -1,0 +1,14 @@
+@keyframes blob-animation {
+  0%, 100% {
+    transform: scale(1);
+    opacity: 0.2;
+  }
+  50% {
+    transform: scale(1.12);
+    opacity: 0.22;
+  }
+}
+
+.blob-animation {
+  animation: blob-animation 3s ease-in-out infinite;
+}
