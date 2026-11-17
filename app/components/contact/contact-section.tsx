@@ -89,7 +89,7 @@ export function ContactSection({
       )}
     >
       <p className="text-muted-foreground font-mono text-sm">
-        <span className="text-syntax-function">❯</span> mail iheb
+        <span className="text-syntax-function">❯</span> mail hichem
       </p>
       <Heading
         id="contact-title"
